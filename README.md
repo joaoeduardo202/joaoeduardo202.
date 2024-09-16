@@ -4,7 +4,7 @@ Meu nome é João Eduardo
 
 Estou estudando na Alura
 Estou desenvolvendo linguagem de JavaScript
-Utilizo esse espaço 
+Utilizo esse espaço para minha organizacao e compartilhamento dos meus projeto desenvolvidos 
 
 ### Voce entrar em contato comigo📫
 
